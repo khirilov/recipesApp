@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/khirilov/recipesApp/static/css/main.fc42e02f.chunk.css",
+    "main.js": "/khirilov/recipesApp/static/js/main.c47293e0.chunk.js",
+    "main.js.map": "/khirilov/recipesApp/static/js/main.c47293e0.chunk.js.map",
+    "runtime-main.js": "/khirilov/recipesApp/static/js/runtime-main.38e69d09.js",
+    "runtime-main.js.map": "/khirilov/recipesApp/static/js/runtime-main.38e69d09.js.map",
+    "static/js/2.ab81a619.chunk.js": "/khirilov/recipesApp/static/js/2.ab81a619.chunk.js",
+    "static/js/2.ab81a619.chunk.js.map": "/khirilov/recipesApp/static/js/2.ab81a619.chunk.js.map",
+    "index.html": "/khirilov/recipesApp/index.html",
+    "static/css/main.fc42e02f.chunk.css.map": "/khirilov/recipesApp/static/css/main.fc42e02f.chunk.css.map",
+    "static/js/2.ab81a619.chunk.js.LICENSE.txt": "/khirilov/recipesApp/static/js/2.ab81a619.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38e69d09.js",
+    "static/js/2.ab81a619.chunk.js",
+    "static/css/main.fc42e02f.chunk.css",
+    "static/js/main.c47293e0.chunk.js"
+  ]
+}
